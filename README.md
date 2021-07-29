@@ -27,7 +27,7 @@ Tes Kompetensi Teknis Studi Independen GITS
   - Ubi di balik iBu => Result False (karena bukan palindrome)
   
 ## Cara Penggunaan
-  - Clone repository https://github.com/ramdhanjr11/Testing-MBKM-GITS/ kedalam folder kalian
+  - Clone repository https://github.com/ramdhanjr11/Testing-MBKM-GITS.git kedalam folder kalian
   - Bukalah folder yang telah diclone menggunakan Intellij IDEA 
   - Buka file Main.kt di dalam testing_mbkm_gitsId/src/Main.kt
   - Run aplikasi (Shift+F10)
