@@ -29,7 +29,7 @@ Tes Kompetensi Teknis Studi Independen GITS
 ## Cara Penggunaan
   - Clone repository https://github.com/ramdhanjr11/Testing-MBKM-GITS.git kedalam folder kalian
   - Bukalah folder yang telah diclone menggunakan Intellij IDEA 
-  - Buka file Main.kt di dalam testing_mbkm_gitsId/src/Main.kt
+  - Buka file Main.kt di dalam **testing_mbkm_gitsId/src/Main.kt**
   - Run aplikasi (Shift+F10)
   
 ## Fitur
